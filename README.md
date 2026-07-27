@@ -79,12 +79,12 @@ Plataforma Full Stack de e-commerce criada para impulsionar a arrecadação de f
 
 ### 🍔 Landing Page
 
-Landing page desenvolvida com foco em:
-
-- SEO
-- Performance
-- Acessibilidade
-- Responsividade
+Landing page desenvolvida para aplicar boas práticas de design, otimização de desempenho, SEO e deploy em produção.
+🔗 **Repositório:** https://github.com/AmaroLuiz/Hamburgueria
+- 🚀 Performance: **90**
+- 🔍 SEO: **92**
+- ♿ Acessibilidade: **93**
+- ✅ Boas práticas: **96**
 
 ---
 
