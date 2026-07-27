@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Luiz Miguel Amaro 👋</h1>
+<h1 align="center">Olá, eu sou Luiz Miguel Poleti Amaro 👋</h1>
 
 <h3 align="center">
 Desenvolvedor Full Stack | Java & Spring Boot | TypeScript
