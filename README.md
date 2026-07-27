@@ -10,15 +10,19 @@ Futuro Java Champion 👑.
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmaroLuiz&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://www.instagram.com/luiz.amro/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AmaroLuiz&theme=tokyonight)
+  <a href="https://www.linkedin.com/in/luizmiguelamaro">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
----
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/SEU_USUARIO](https://www.instagram.com/luiz.amro/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luizmiguelamaro)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizmpoletiamaro@gmail.com)
+  <a href="mailto:luizmpoletiamaro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -59,6 +63,7 @@ Futuro Java Champion 👑.
 ### 🛒 Core Tech
 
 Plataforma Full Stack de e-commerce criada para impulsionar a arrecadação de fundos do projeto de robótica do IFPR por meio da venda e gestão de produtos.
+🔗 **Repositório:** https://github.com/AmaroLuiz/Core-Tech
 
 **Principais tecnologias:**
 
@@ -80,4 +85,8 @@ Landing page desenvolvida com foco em:
 - Performance
 - Acessibilidade
 - Responsividade
-- Otimização para Lighthouse
+
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmaroLuiz&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
