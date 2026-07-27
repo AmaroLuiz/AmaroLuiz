@@ -62,7 +62,7 @@ Futuro Java Champion 👑.
 
 ### 🛒 Core Tech
 
-Plataforma Full Stack de e-commerce criada para impulsionar a arrecadação de fundos do projeto de robótica do IFPR por meio da venda e gestão de produtos.
+Plataforma Full Stack de e-commerce criada para impulsionar a arrecadação de fundos do projeto de robótica do IFPR por meio da venda e gestão de produtos feitos por impressora 3D.
 🔗 **Repositório:** https://github.com/AmaroLuiz/Core-Tech
 
 **Principais tecnologias:**
