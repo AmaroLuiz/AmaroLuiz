@@ -10,17 +10,14 @@ Futuro Java Champion 👑.
 
 ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmaroLuiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaroLuiz&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmaroLuiz&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AmaroLuiz&theme=tokyonight)
 
 ---
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/SEU_USUARIO](https://www.instagram.com/luiz.amro/))
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luizmiguelamaro)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizmpoletiamaro@gmail.com)
 
 ---
