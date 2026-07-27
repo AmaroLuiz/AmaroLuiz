@@ -1,29 +1,27 @@
 <h1 align="center">Olá, eu sou Luiz Miguel Amaro 👋</h1>
 
 <h3 align="center">
-Desenvolvedor Full Stack | Java & Spring Boot | TypeScript | Performance Web
+Desenvolvedor Full Stack | Java & Spring Boot | TypeScript
 </h3>
 
 <p align="center">
-Transformando problemas reais em software de qualidade.
+Futuro Java Champion 👑.
 </p>
 
 ---
 
-## 🚀 Sobre mim
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmaroLuiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaroLuiz&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
-Sou desenvolvedor Full Stack apaixonado por construir aplicações escaláveis, interfaces modernas e experiências rápidas.
+---
 
-Atualmente estou focado em:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/SEU_USUARIO](https://www.instagram.com/luiz.amro/))
 
-- ☕ Java + Spring Boot
-- 🗄 PostgreSQL
-- 🔐 Spring Security + JWT
-- 🌐 HTML, CSS, JavaScript e TypeScript
-- ⚡ Performance Web (Lighthouse)
-- ☁ Deploy e Cloud
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luizmiguelamaro)
 
-Meu objetivo é construir soluções que realmente gerem valor para empresas, sempre buscando código limpo, arquitetura organizada e boa experiência para o usuário.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizmpoletiamaro@gmail.com)
 
 ---
 
@@ -35,10 +33,12 @@ Meu objetivo é construir soluções que realmente gerem valor para empresas, se
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend
 
@@ -51,8 +51,9 @@ Meu objetivo é construir soluções que realmente gerem valor para empresas, se
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -60,7 +61,7 @@ Meu objetivo é construir soluções que realmente gerem valor para empresas, se
 
 ### 🛒 Core Tech
 
-Marketplace Full Stack para gerenciamento e venda de produtos.
+Plataforma Full Stack de e-commerce criada para impulsionar a arrecadação de fundos do projeto de robótica do IFPR por meio da venda e gestão de produtos.
 
 **Principais tecnologias:**
 
@@ -74,7 +75,7 @@ Marketplace Full Stack para gerenciamento e venda de produtos.
 
 ---
 
-### 🍔 Landing Page Premium
+### 🍔 Landing Page
 
 Landing page desenvolvida com foco em:
 
@@ -83,39 +84,3 @@ Landing page desenvolvida com foco em:
 - Acessibilidade
 - Responsividade
 - Otimização para Lighthouse
-
----
-
-## 📈 Estatísticas
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmaroLuiz&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaroLuiz&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🎯 Atualmente estudando
-
-- Arquitetura de Software
-- Microsserviços
-- Docker
-- Cloud
-- Testes Automatizados
-- CI/CD
-
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: https://linkedin.com/in/SEU-LINK
-- 🌐 Portfólio: https://SEU-SITE
-- 📧 Email: seuemail@email.com
-
----
-
-<p align="center">
-
-"Empresas pequenas merecem software de qualidade."
-
-</p>
